@@ -1,3 +1,5 @@
 Sandwich
 Fruits
 Pasta
+Pizza
+Spaghetti
