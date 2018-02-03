@@ -6,3 +6,6 @@ Spaghetti
 Chocolate
 Icecream
 Pie
+Burger
+Steak
+Beans
