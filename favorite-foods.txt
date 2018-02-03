@@ -3,3 +3,9 @@ Fruits
 Pasta
 Pizza
 Spaghetti
+Chocolate
+Icecream
+Pie
+Burger
+Steak
+Beans
